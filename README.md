@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate developer specializing in **full-stack development** and **cloud computing**. I love turning ideas into impactful solutions and constantly strive to learn new technologies.
 
-- 🎓 **Education**: Current Grade 5 student at WCS
+- 🎓 **Education**: Current Grade 6 student at WCS
 - 🌍 **Location**: Based in Alberta, Canada.
 - 💡 **Interests**: Building scalable web applications, exploring AI/ML, and contributing to open source.
 
